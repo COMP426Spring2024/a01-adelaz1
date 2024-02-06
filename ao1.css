@@ -1,0 +1,90 @@
+body {
+    background-color: #3e63a4;
+    color: white;
+    margin: auto;
+    width: 75%;
+    padding-top: 7%;
+    text-align: center;
+    font-family: 'Montserrat Alternates';
+}
+header {
+    font-family: 'Dangrek';
+    font-weight: bold;
+    font-size: 175%;
+}
+select {
+    font-family: 'Montserrat Alternates';
+    width: 80px;
+    height: 30px;
+}
+form {
+    margin-bottom: 5%;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 120%;
+}
+thead {
+    font-weight: bold;
+}
+.home-image {
+    margin: 2vh;
+}
+.home-image:hover {
+    margin: 2vh;
+    opacity: 70%;
+}
+ul {
+    display: block;
+    list-style-position: inside;
+    list-style-type: none;
+    text-align: center;
+    margin-left: -3%;
+}
+img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+.btn {
+    font-weight: bolder;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+    color: #102344;
+    text-decoration: none;
+    background-color: #6b9cf0;
+}
+.btn:hover {
+    font-weight: bolder;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+    color: #102344;
+    text-decoration: none;
+    background-color: #6b9cf053;
+}
+#next {
+    background-color: #a7b4cc;
+}
+#next:hover {
+    background-color: #a7b4cc75;
+}
+footer {
+    font-family: 'Dangrek';
+    color: lightgray;
+    font-size: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+footer > a {
+    color: lightgray;
+    font-size: 100%;
+    margin-top: 10%;
+}
